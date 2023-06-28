@@ -10,8 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://sourav.bio/static/d25524e842a2214eba9674ce4db5d9ec/33030/photo.avif"  />
-
 ###
 
 <div align="left">
