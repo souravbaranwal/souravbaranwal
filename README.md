@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>Thanks for visiting my profile.<br>My name is Sourav & I am a Mobile and Web  developer passionate about creating efficient and effective user experiences.</h2>
+<h2 align="left">Hi 👋! <br>Thanks for visiting my profile.<br>My name is Sourav & I am a Mobile and Web  developer, passionate about creating efficient and effective user experiences.</h2>
 
 ###
 
